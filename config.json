@@ -8,13 +8,11 @@
 	},
 	"tasks": [
 		{
-			"username": "wujy2017",
-			"password": "Aa334466",
+			"username": "邮箱账号",
+			"password": "邮箱密码",
 			"fields": {	
-				"fieldSQxq": "4",
-				"fieldSQgyl": "54",
-				"fieldSQqsh": "106",
-				"fieldSQnj": "1",
-				"fieldSQbj": "9"
+				"fieldSQxq": "校区",
+				"fieldSQgyl": "公寓楼",
+				"fieldSQqsh": "寝室号"
 			}
  }
