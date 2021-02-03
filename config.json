@@ -8,11 +8,28 @@
 	},
 	"tasks": [
 		{
-			"username": "邮箱账号",
-			"password": "邮箱密码",
-			"fields": {	
-				"fieldSQxq": "校区",
-				"fieldSQgyl": "公寓楼",
-				"fieldSQqsh": "寝室号"
+			"username": "wujy2017",
+			"password": "Aa334466",
+			"fields": {
+                		"fieldSFJTZGFXDQ":"2",
+                		"fieldXWSY_Name":"放假回家",
+                		"fieldQu":"220802",
+		                "fieldSheng":"220000",
+		                "fieldSQbj":"9",
+		                "fieldBKSpd":"2",
+		                "fieldQums":"瑞光南街24-1",
+		                "fieldSQxm":"20170918",
+		                "fieldSQsjh":"18004369161",
+		                "fieldSQxy":"bks_123",
+		                "fieldSQxq":"4",
+		                "fieldXH":"20170918",
+		                "fieldDZMC":"居住",
+		                "fieldSQfdyxm":"608258",
+		                "fieldXWSY":"1",
+		                "fieldWY":"1",
+		                "fieldShi":"220800",
+		                "fieldSQnj":"1"
 			}
- }
+		}
+	]
+}
